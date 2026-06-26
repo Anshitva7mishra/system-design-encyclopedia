@@ -55,16 +55,6 @@ system-design-encyclopedia/
 
 ---
 
-## Progress
-
-| Day   | Status      |
-|-------|-------------|
-| Day 1 | In Progress |
-
-This table grows as I add more days.
-
----
-
 ## Language
 
 All code in this repository is written in **Java**.
